@@ -8,3 +8,5 @@ meal_choice(veg1, veg2, protein = "Tofu")
   meal 
 end
 
+meal_choice("carrots", "brussel sprouts", "beef")
+
